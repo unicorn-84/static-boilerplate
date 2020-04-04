@@ -1,0 +1,12 @@
+/* purgecss start ignore */
+@import "../../node_modules/tailwindcss/base.css";
+
+h1 {
+  @apply text-3xl;
+}
+
+@import "../../node_modules//tailwindcss/components.css";
+
+/* purgecss end ignore */
+
+@import "../../node_modules/tailwindcss/utilities.css";
